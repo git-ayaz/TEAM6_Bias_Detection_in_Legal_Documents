@@ -1,0 +1,39 @@
+team 6  : bias detection in legal documents 
+
+
+team members:
+
+Hamza Babukhan (SE22UARI208)
+Ayaz Ahmed Ansari (SE22UARI024)
+Sandeep Surapaneni (SE22UARI151)
+Aryan Pawar (SE22UARI195)
+
+team members contribution :
+
+Aryan: 
+
+Data Preprocessing
+
+Focused on cleaning and preparing text, ensuring standardized input, and addressing missing or irrelevant data. Techniques like tokenization, stemming, NER, and dependency parsing were applied to refine textual data for analysis.
+
+Hamza: 
+
+Dataset Creation and Embedding
+
+Developed the dataset with necessary bias labels, split it into training and testing subsets, and incorporated contextual embeddings to capture word meanings dynamically. Custom PyTorch classes were implemented for efficient data handling.
+
+
+Ayaz: 
+
+Model Training and Evaluation
+
+Fine-tuned a pretrained language model for classification tasks and evaluated its performance using metrics like accuracy, precision, recall, and F1-score. Adjustments were made based on evaluation results, and the final model was saved for future use.
+
+
+
+Sandeep:
+
+
+Result Analysis and Insights
+
+Analyzed predictions to identify errors and patterns, generated performance metrics such as the confusion matrix and ROC-AUC score, and summarized findings to guide potential improvements.
