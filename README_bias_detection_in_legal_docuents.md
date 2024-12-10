@@ -50,5 +50,5 @@ Before running the notebook, ensure that the following libraries and dependencie
 - **Methodology**: Combines data preprocessing, contextual embedding (DistilBERT), and fine-tuning for a classification task.
 - **Key Features**:
   - Tokenization using Hugging Face Transformers.
-  - Contextual embeddings with pre-trained transformer models.
+  - Contextual embeddings with pre-trained transformer  models.
   - Evaluation metrics: Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
